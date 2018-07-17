@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# flake8: noqa
 USHRT_MAX = 65535
 
 CMD_DB_RRQ          = 7     # Read in some kind of data from the machine
